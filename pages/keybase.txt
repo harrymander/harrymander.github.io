@@ -1,0 +1,60 @@
+---
+permalink: /.well-known/keybase.txt
+---
+
+==================================================================
+https://keybase.io/harrymander
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://harrymander.github.io
+  * I am harrymander (https://keybase.io/harrymander) on keybase.
+  * I have a public key ASBM4Phqj35hAmfGBMT3wsgruIThrB6cE5O8wjF2z8umDQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205300beedb5c2cb1553201b41251d8fa425d193db9c6dbe77c14ca8282314b8d10a",
+      "host": "keybase.io",
+      "kid": "01204ce0f86a8f7e610267c604c4f7c2c82bb884e1ac1e9c1393bcc23176cfcba60d0a",
+      "uid": "6eaa21c9b933a6c3c8cbe2060da6bb19",
+      "username": "harrymander"
+    },
+    "merkle_root": {
+      "ctime": 1595823635,
+      "hash": "938c0f1dd5a788f221926b4b6ba7d735718169e3ed0708711928f0ae16e4241a0911ba505b10bd53f784635831da41efd636ab39f74947389b1dd7ab05ac7dd2",
+      "hash_meta": "a39ac1e5e79af1ea9919672b1e8eb5b0dcf79eb6cd8ad05511fb7ce14aae46fb",
+      "seqno": 17097523
+    },
+    "service": {
+      "entropy": "qiZDgSY/BmPJTJOXeXF71g9o",
+      "hostname": "harrymander.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.1"
+  },
+  "ctime": 1595823663,
+  "expire_in": 504576000,
+  "prev": "7e660b25e8e1c6236f0df1856b9d66b52806709722a48ef4aa0f3b5d91d1d150",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTOD4ao9+YQJnxgTE98LIK7iE4awenBOTvMIxds/Lpg0Kp3BheWxvYWTESpcCGcQgfmYLJejhxiNvDfGFa51mtSgGcJcipI70qg87XZHR0VDEIAnqXx7LCU0ah2ruky62BN4X/+qsOgCcjkRtd2/v+nwiAgHCo3NpZ8RAgV2K/3+ja6Hjck7tWDFAKLmTpZ1H29lIijUh0PD6Cav9x3DO6xlM/Ubyro2UAeFjj0gtJ4ZdAoKFvTlk5qO6BKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBfZwaGrA4nXNPMic3hGpvsnDCXoUKXvytLV/1TfTQodo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/harrymander
+
+==================================================================
