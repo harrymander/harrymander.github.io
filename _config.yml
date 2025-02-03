@@ -1,0 +1,4 @@
+collections:
+  well_known:
+    permalink: /.well-known/:path:output_ext
+    output: true
